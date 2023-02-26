@@ -2,7 +2,7 @@ import './App.css';
 
 import {
   HomeCardCollection
-  } from './ui-components’;
+  } from './ui-components';
 
 function App() {
   return (
